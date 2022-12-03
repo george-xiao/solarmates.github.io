@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.3f8e2ebd.css",
-    "main.js": "/static/js/main.c614cdf7.js",
-    "static/js/787.fb771931.chunk.js": "/static/js/787.fb771931.chunk.js",
-    "static/media/george.jpg": "/static/media/george.c9d831b656e6eac7b6d5.jpg",
-    "static/media/banner-bg.jpg": "/static/media/banner-bg.e0879d4c91aa26dfca16.jpg",
-    "static/media/color-sharp.png": "/static/media/color-sharp.bea361cfef80fefc2d1e.png",
-    "static/media/color-sharp2.png": "/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
-    "static/media/keshav.jpeg": "/static/media/keshav.e2214416ec9e451a63a7.jpeg",
-    "static/media/parizeh_temp.jpg": "/static/media/parizeh_temp.1798e6d8ec02602e11ea.jpg",
-    "static/media/noah.jpeg": "/static/media/noah.c2f716955d344e683536.jpeg",
-    "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
-    "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
-    "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
-    "static/media/footer-bg.png": "/static/media/footer-bg.7bd67c0f73571d0acc02.png",
-    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
-    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
-    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
-    "index.html": "/index.html",
-    "main.3f8e2ebd.css.map": "/static/css/main.3f8e2ebd.css.map",
-    "main.c614cdf7.js.map": "/static/js/main.c614cdf7.js.map",
-    "787.fb771931.chunk.js.map": "/static/js/787.fb771931.chunk.js.map"
+    "main.css": "/solarmates.github.io/static/css/main.d47c32ec.css",
+    "main.js": "/solarmates.github.io/static/js/main.c4ec089f.js",
+    "static/js/787.fb771931.chunk.js": "/solarmates.github.io/static/js/787.fb771931.chunk.js",
+    "static/media/george.jpg": "/solarmates.github.io/static/media/george.c9d831b656e6eac7b6d5.jpg",
+    "static/media/banner-bg.jpg": "/solarmates.github.io/static/media/banner-bg.e0879d4c91aa26dfca16.jpg",
+    "static/media/color-sharp.png": "/solarmates.github.io/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/solarmates.github.io/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/keshav.jpeg": "/solarmates.github.io/static/media/keshav.e2214416ec9e451a63a7.jpeg",
+    "static/media/parizeh_temp.jpg": "/solarmates.github.io/static/media/parizeh_temp.1798e6d8ec02602e11ea.jpg",
+    "static/media/noah.jpeg": "/solarmates.github.io/static/media/noah.c2f716955d344e683536.jpeg",
+    "static/media/CentraNo2-Bold.ttf": "/solarmates.github.io/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/solarmates.github.io/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/solarmates.github.io/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "/solarmates.github.io/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/revicons.eot": "/solarmates.github.io/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/solarmates.github.io/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/solarmates.github.io/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/solarmates.github.io/index.html",
+    "main.d47c32ec.css.map": "/solarmates.github.io/static/css/main.d47c32ec.css.map",
+    "main.c4ec089f.js.map": "/solarmates.github.io/static/js/main.c4ec089f.js.map",
+    "787.fb771931.chunk.js.map": "/solarmates.github.io/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f8e2ebd.css",
-    "static/js/main.c614cdf7.js"
+    "static/css/main.d47c32ec.css",
+    "static/js/main.c4ec089f.js"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/solarmates.github.io/static/css/main.d47c32ec.css",
-    "main.js": "/solarmates.github.io/static/js/main.c4ec089f.js",
+    "main.css": "/solarmates.github.io/static/css/main.c5143798.css",
+    "main.js": "/solarmates.github.io/static/js/main.b42d55a1.js",
     "static/js/787.fb771931.chunk.js": "/solarmates.github.io/static/js/787.fb771931.chunk.js",
     "static/media/george.jpg": "/solarmates.github.io/static/media/george.c9d831b656e6eac7b6d5.jpg",
     "static/media/banner-bg.jpg": "/solarmates.github.io/static/media/banner-bg.e0879d4c91aa26dfca16.jpg",
@@ -16,14 +16,15 @@
     "static/media/footer-bg.png": "/solarmates.github.io/static/media/footer-bg.7bd67c0f73571d0acc02.png",
     "static/media/revicons.eot": "/solarmates.github.io/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/solarmates.github.io/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/placeholder.png": "/solarmates.github.io/static/media/placeholder.131416b42c81615aeb5d.png",
     "static/media/revicons.woff": "/solarmates.github.io/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/solarmates.github.io/index.html",
-    "main.d47c32ec.css.map": "/solarmates.github.io/static/css/main.d47c32ec.css.map",
-    "main.c4ec089f.js.map": "/solarmates.github.io/static/js/main.c4ec089f.js.map",
+    "main.c5143798.css.map": "/solarmates.github.io/static/css/main.c5143798.css.map",
+    "main.b42d55a1.js.map": "/solarmates.github.io/static/js/main.b42d55a1.js.map",
     "787.fb771931.chunk.js.map": "/solarmates.github.io/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d47c32ec.css",
-    "static/js/main.c4ec089f.js"
+    "static/css/main.c5143798.css",
+    "static/js/main.b42d55a1.js"
   ]
 }

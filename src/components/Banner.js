@@ -56,9 +56,10 @@ export const Banner = () => {
               <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                 {/* <span className="tagline">Welcome to my Portfolio</span> */}
                 <h1>{`Hi! We're Solar Mates!`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Group 5", "Keshav Pandey", "Noah Gillespie-Friesen", "Parizeh Rahman", "George Xiao" ]'><span className="wrap">{text}</span></span></h1>
-                <p> This is some text about our project and what it does. Our project is pretty cool. 😎 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt 
-                  ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit 
-                  in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                <p>
+                  The global climate change crisis is reaching unprecedented levels of danger, and is causing an increased need for renewable green energy sources such as solar power​.
+                  A continued problem with solar panels is their inability to generate power when blocked from sunlight, whether this be dust, sand, or any other debris. Our hands-free,
+                  low maintenance solution aims to autonomously clean solar panels when they aren't in use.
                 </p>
                 <a href="mailto:g5xiao@uwaterloo.ca">
                   <button onClick={() => console.log('connect')}>Let’s Connect <ArrowRightCircle size={25} /></button>

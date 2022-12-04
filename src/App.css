@@ -321,7 +321,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
     font-size: 18px;
     letter-spacing: 0.8px;
     line-height: 1.5em;
-    margin: 14px 0 75px 0;
+    margin: 14px 0 28px 0;
 }
 .skill-slider {
   width: 80%;
@@ -350,22 +350,24 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 	font-size: 45px;
 	font-weight: 700;
   text-align: center;
+  margin-bottom: 20px;
 }
 .project p {
   color: #B8B8B8;
   font-size: 18px;
   letter-spacing: 0.8px;
   line-height: 1.5em;
-  margin: 14px auto 30px auto;
+  margin: 14px auto 0px auto;
   text-align: center;
   width: 56%;
 }
 .project .nav.nav-pills {
   width: 72%;
-  margin: 0 auto;
+  margin: 0 auto 0 auto;
   border-radius: 50px;
   background-color: rgb(255 255 255 / 10%);
   overflow: hidden;
+  margin-bottom: 2rem !important;
 }
 .project .nav.nav-pills .nav-item {
   width: 25%;
@@ -473,7 +475,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 /************ Projects Css ************/
 .contact {
   background: linear-gradient(90.21deg, #FE7C22 -5.91%, #FFBF2E 111.58%);
-  padding: 60px 0 200px 0;
+  padding: 60px 0 60px 0;
 }
 .contact img {
   width: 92%;
@@ -541,6 +543,56 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .contact form button:hover::before {
   width: 100%;
 }
+
+/* .carousel .item {
+  height: 300px;
+} */
+
+.contact img {
+  width: 20% !important;
+  height: 20% !important;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  margin-bottom: 10rem;
+}
+
+.contact ul{
+  /* width: 10rem !important; */
+  height: 10rem !important;
+  display: block;
+  margin-bottom: 10rem;
+}
+
+.contact p {
+  margin-bottom: 5rem;
+}
+
+.carousel-caption {
+  /* top: auto; */
+  bottom: 0;
+  /* position:relative; */
+  top: 10rem;
+}
+
+.contact li {
+  text-align: left;
+}
+
+.bullet-list {
+  text-align: left !important;
+  padding-left: 8rem !important;
+}
+
+.constraints-font {
+  font-size: 24px;
+ }
+
+.criteria-font {
+  font-size: 16px;
+ }
+
 
 /************ Footer Css ************/
 .footer {
@@ -635,4 +687,10 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 
 body > div > button > a {
   text-decoration: none;
+}
+
+.mainModelPic {
+  width: 50%;
+  height: 50%;
+  border-radius: 40px;
 }

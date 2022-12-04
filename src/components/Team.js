@@ -35,7 +35,7 @@ export const Team = () => {
                 <Tab.Content>
                   <Tab.Pane eventKey="first">
                     <img src={keshav} alt="Keshav Pandey" className="teamImages center"/>
-                    <p>I'm a 4th year Mechatronics Engineer that's passionate about solving difficult problems and helping society overcome issues that are prominent today. So, I'm very excited to work on a solution for solar panels that can help with tackling the significant challenge presented by global climate change.</p>
+                    <p>Keshav is a 4th year Mechatronics Engineering student that's passionate about solving difficult problems and helping society overcome issues that are prominent today. He's very excited to work on a solution for solar panels that helps tackle the significant challenge presented by global climate change.</p>
                   </Tab.Pane>
                   <Tab.Pane eventKey="second">
                     <img src={noah} alt="Noah Gillespie-Friesen" className="teamImages center"/>
@@ -47,7 +47,7 @@ export const Team = () => {
                   </Tab.Pane>
                   <Tab.Pane eventKey="fourth">
                     <img src={george} alt="George Xiao" className="teamImages center"/>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque quam, quod neque provident velit, rem explicabo excepturi id illo molestiae blanditiis, eligendi dicta officiis asperiores delectus quasi inventore debitis quo.</p>
+                    <p>George is a 4th year Mechatronics student who enjoys learning about climate science and all things programming. When not programming, he enjoys grabbing food with friends and playing volleyball (poorly).</p>
                   </Tab.Pane>
                 </Tab.Content>
               </Tab.Container>

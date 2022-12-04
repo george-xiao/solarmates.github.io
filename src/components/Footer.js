@@ -13,7 +13,7 @@ export const Footer = () => {
             <div className="social-icon">
               <a href="mailto:g5xiao@uwaterloo.ca"><img src={navIcon1} alt="Icon" /></a>
             </div>
-            <p>Solar Mates Inc. 2022 ®</p>
+            <p>Solar Mates 2023</p>
           </Col>
         </Row>
       </Container>

@@ -7,7 +7,14 @@ import { Team } from "./components/Team";
 import { Details } from "./components/Details";
 import { Footer } from "./components/Footer";
 
+import React, { useEffect } from 'react';
+
 function App() {
+
+  useEffect(() => {
+    document.title = `Solar Mates`;
+  });
+
   return (
     <div className="App">
       <NavBar />

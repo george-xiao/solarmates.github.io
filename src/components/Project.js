@@ -1,6 +1,6 @@
 import 'react-multi-carousel/lib/styles.css';
 import colorSharp from "../assets/img/color-sharp.png"
-import mainModel from "../assets/img/placeholder.png";
+import mainModel from "../assets/img/mainModel.png";
 
 export const Project = () => {
   const responsive = {

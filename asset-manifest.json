@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/solarmates.github.io/static/css/main.c5143798.css",
-    "main.js": "/solarmates.github.io/static/js/main.b42d55a1.js",
+    "main.css": "/solarmates.github.io/static/css/main.09d2d2a6.css",
+    "main.js": "/solarmates.github.io/static/js/main.24ca1b38.js",
     "static/js/787.fb771931.chunk.js": "/solarmates.github.io/static/js/787.fb771931.chunk.js",
     "static/media/george.jpg": "/solarmates.github.io/static/media/george.c9d831b656e6eac7b6d5.jpg",
     "static/media/banner-bg.jpg": "/solarmates.github.io/static/media/banner-bg.e0879d4c91aa26dfca16.jpg",
@@ -19,12 +19,12 @@
     "static/media/placeholder.png": "/solarmates.github.io/static/media/placeholder.131416b42c81615aeb5d.png",
     "static/media/revicons.woff": "/solarmates.github.io/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/solarmates.github.io/index.html",
-    "main.c5143798.css.map": "/solarmates.github.io/static/css/main.c5143798.css.map",
-    "main.b42d55a1.js.map": "/solarmates.github.io/static/js/main.b42d55a1.js.map",
+    "main.09d2d2a6.css.map": "/solarmates.github.io/static/css/main.09d2d2a6.css.map",
+    "main.24ca1b38.js.map": "/solarmates.github.io/static/js/main.24ca1b38.js.map",
     "787.fb771931.chunk.js.map": "/solarmates.github.io/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c5143798.css",
-    "static/js/main.b42d55a1.js"
+    "static/css/main.09d2d2a6.css",
+    "static/js/main.24ca1b38.js"
   ]
 }

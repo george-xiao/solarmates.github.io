@@ -6,6 +6,7 @@ import { Project } from "./components/Project";
 import { Team } from "./components/Team";
 import { Details } from "./components/Details";
 import { Footer } from "./components/Footer";
+import { Blog } from "./components/Blog";
 
 import React, { useEffect } from 'react';
 
@@ -22,6 +23,7 @@ function App() {
       <Project />
       <Team />
       <Details />
+      <Blog />
       <Footer />
     </div>
   );

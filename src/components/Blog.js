@@ -12,7 +12,7 @@ export const Blog = () => {
           <Col size={50}>
             <div>
                 <h2>Build Blog</h2>
-                <h4>January 27, 2023</h4>
+                <h4>January 27<sup>th</sup>, 2023</h4>
                 <h6>Gearing up to GO!
 Hi all, Solar Mates here. Welcome to our journey of the construction of the first ever
 Solar Mate cleaner! For those who don't know, Solar Mates is a project to bring solutions
@@ -24,6 +24,17 @@ device. This means we are able to connect these ultrasonic sensors to the microc
 device to test their ability to detect objects that are near and relay that information to 
 the microcontroller. With this we are able to program what different readings from these 
 sensors will mean for the rest of the working device.</h6>
+            </div>
+          </Col>
+        </Row>
+        <br></br>
+        <Row>
+          <Col size={50}>
+            <div>
+                <h4>February 3<sup>rd</sup>, 2023</h4>
+                <h6>Parts have LANDED! Hi all, welcome to Week 2 of our build blog. This week the majority of the parts needed to build our prototype have arrived. This includes the aluminum square tubing, connectors, bearings, nuts/bolts, motors, and other electronic components. 
+
+The aluminum square tubing and connectors are being used to make up the box framework of the device. So, our first step this week has been to cut the aluminum square tubing into the sizes we want, and start drilling holes in them for mounting to other pieces. On the electronics side, now that we have received the motors we have started looking into interfacing with them from our microcontroller.</h6>
             </div>
           </Col>
         </Row>

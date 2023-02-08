@@ -38,6 +38,21 @@ The aluminum square tubing and connectors are being used to make up the box fram
             </div>
           </Col>
         </Row>
+        <br></br>
+        <Row>
+          <Col size={50}>
+            <div>
+                <h4>February 10<sup>th</sup>, 2023</h4>
+                <h6>Development is UNDERWAY! Welcome to Week 3 of our build blog!
+                  This week, we have finished manufacturing the individual pieces of our device's framework.
+                  To do this, we finished drilling the remaining holes needed in the aluminum square tubing and have ensured the dimensions are all accurate.
+                  The next step we have started on is making brackets for mounting our electronic components to the framework. Once this is done, we will be ready for assembly.
+                  On the electronics side, we have finished soldering wires to all of our electrical components so that they can be connected to our microcontroller. 
+                  Now, we are working on writing software to interface with our sensors, and conduct speed control with our motors.
+                  </h6>
+            </div>
+          </Col>
+        </Row>
       </Container>
     </section>
   )

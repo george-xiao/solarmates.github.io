@@ -53,6 +53,22 @@ The aluminum square tubing and connectors are being used to make up the box fram
             </div>
           </Col>
         </Row>
+        <br></br>
+        <Row>
+          <Col size={50}>
+            <div>
+                <h4>February 17<sup>th</sup>, 2023</h4>
+                <h6>Error 404! Week 4 has brought the inevitable speed bumps that come with moving from design to implementation. 
+                  Our original microcontroller has seen some heavy use since 2018 and it finally quit on us last week. 
+                  This means we've had to pivot to an STM32 microcontroller. This also means that we have had to order a new camera that will be compatible with 
+                  the new microcontroller. Additionally, some of the mechanical parts that arrived needed to be slightly altered to meet specifications. 
+                  This includes using a lathe to very slightly decrease the diameter of our cleaning rod so that it will fit in our purchased bearings. 
+                  On the electrical side of things, motor testing and tuning has been progressing well. 
+                  They've been running up to speed when connected to our power source and now we are working on integrating them with the mechanical system!
+                  </h6>
+            </div>
+          </Col>
+        </Row>
       </Container>
     </section>
   )

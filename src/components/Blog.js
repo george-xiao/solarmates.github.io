@@ -69,6 +69,23 @@ The aluminum square tubing and connectors are being used to make up the box fram
             </div>
           </Col>
         </Row>
+        <br></br>
+        <Row>
+          <Col size={50}>
+            <div>
+                <h4>February 24<sup>th</sup>, 2023</h4>
+                <h6> Reading week is HERE! This week gives the team some much needed rest as midterms approach, but that doesn't mean progress slows down.
+                  Amidst midterm preparation, some final parts were added to the mechanical design to accommodate for the camera, and to address several 
+                  other hiccups that were encountered previously. Mechanical design and construction should be complete within the very near future!
+
+                  On the electrical and software side, the appropriate motors are being worked with to enable intergration into the mechanical system, and the code
+                  for the movement of the device along the solar panels as well as the rotation of the shaft is being written. The camera — as previously mentioned —
+                  was tested in order to determine an optimal placement on the device, and code is being written to enable the gathering and processing of still images.
+                  These will be used to calibrate the speed of our device, and a simple image processing algorithm is in the works.
+                  </h6>
+            </div>
+          </Col>
+        </Row>
       </Container>
     </section>
   )

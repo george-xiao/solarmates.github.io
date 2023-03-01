@@ -86,6 +86,24 @@ The aluminum square tubing and connectors are being used to make up the box fram
             </div>
           </Col>
         </Row>
+        <br></br>
+        <Row>
+          <Col size={50}>
+            <div>
+                <h4>March 3<sup>rd</sup>, 2023</h4>
+                <h6> The end is NEAR! Preparations for the demo are upon us, and progress is going well. 
+
+                  On the mechanical front, the system is complete! The construction and assembly of all the parts is finished, and now the goal is to integrate the
+                  electronics and software. Mounts for the camera and ultrasonic sensors have been added, and an issue with the wheel shaft assembly was resolved
+                  through some of Keshav and Noah's mechanical ingenuity. Cloths are yet to be added, and are the only remaining part of the assembly.
+
+                  On the software and electrical front, motors have been fully tested and are beginning to be integrated into the mechanical assembly. Once fully built,
+                  an algorithm to control the motors written in C++ will be tested. The image processing using the on-board camera is in progress, and some memory issues
+                  may arise depending on the resolution we plan to use. 
+                  </h6>
+            </div>
+          </Col>
+        </Row>
       </Container>
     </section>
   )

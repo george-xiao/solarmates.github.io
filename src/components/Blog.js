@@ -104,6 +104,21 @@ The aluminum square tubing and connectors are being used to make up the box fram
             </div>
           </Col>
         </Row>
+        <br></br>
+        <Row>
+          <Col size={50}>
+            <div>
+                <h4>March 10<sup>th</sup>, 2023</h4>
+                <h6> Demo day is UPON US! Today is demo day, and lots of progress was made. On the mechanical side, the frame has been fully built and constructed, and
+                  seems to be fully functioning when motors were tested. Unfortunately, some electrical issues were encountered during assembly, causing several hiccups along the way.
+                  Perhaps some better planning was required for the electronics, but solutions are being worked on as we speak. A perfboard has been added to accomodate for shifting
+                  electrical wiring while we test, and these hiccups are being worked through. On the software side, the camera algorithm to detect debris on the surface of the solar panel
+                  has been completed, and has undergone some light testing in a controlled environment. Testing on the actual system is coming up in the near future. The motor code
+                  has been implemented, and is currently undergoing testing on the system.
+                  </h6>
+            </div>
+          </Col>
+        </Row>
       </Container>
     </section>
   )

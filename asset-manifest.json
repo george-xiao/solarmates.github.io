@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/solarmates.github.io/static/css/main.49589364.css",
-    "main.js": "/solarmates.github.io/static/js/main.5901b871.js",
+    "main.css": "/solarmates.github.io/static/css/main.13894742.css",
+    "main.js": "/solarmates.github.io/static/js/main.a20bed20.js",
     "static/js/787.fb771931.chunk.js": "/solarmates.github.io/static/js/787.fb771931.chunk.js",
     "static/media/george.jpg": "/solarmates.github.io/static/media/george.c9d831b656e6eac7b6d5.jpg",
     "static/media/banner-bg.jpg": "/solarmates.github.io/static/media/banner-bg.e0879d4c91aa26dfca16.jpg",
     "static/media/color-sharp.png": "/solarmates.github.io/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/solarmates.github.io/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/finaldesign.jpg": "/solarmates.github.io/static/media/finaldesign.1e951889a116460378fa.jpg",
     "static/media/keshav.jpeg": "/solarmates.github.io/static/media/keshav.e2214416ec9e451a63a7.jpeg",
     "static/media/mainModel.png": "/solarmates.github.io/static/media/mainModel.17bca0111760f3a816f2.png",
     "static/media/parizeh_temp.jpg": "/solarmates.github.io/static/media/parizeh_temp.1798e6d8ec02602e11ea.jpg",
@@ -18,12 +19,12 @@
     "static/media/revicons.ttf": "/solarmates.github.io/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/solarmates.github.io/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/solarmates.github.io/index.html",
-    "main.49589364.css.map": "/solarmates.github.io/static/css/main.49589364.css.map",
-    "main.5901b871.js.map": "/solarmates.github.io/static/js/main.5901b871.js.map",
+    "main.13894742.css.map": "/solarmates.github.io/static/css/main.13894742.css.map",
+    "main.a20bed20.js.map": "/solarmates.github.io/static/js/main.a20bed20.js.map",
     "787.fb771931.chunk.js.map": "/solarmates.github.io/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.49589364.css",
-    "static/js/main.5901b871.js"
+    "static/css/main.13894742.css",
+    "static/js/main.a20bed20.js"
   ]
 }

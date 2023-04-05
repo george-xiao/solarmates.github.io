@@ -677,6 +677,12 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   height: 20%;
 }
 
+.blogImg {
+  border-radius: 5%;
+  width: 30%;
+  height: 10%;
+}
+
 .center {
   display: block;
   margin-left: auto;

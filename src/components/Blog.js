@@ -2,6 +2,7 @@ import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import 'animate.css';
 
 import 'react-multi-carousel/lib/styles.css';
+import final from "../assets/img/finaldesign.jpg";
 
 
 export const Blog = () => {
@@ -119,7 +120,36 @@ The aluminum square tubing and connectors are being used to make up the box fram
             </div>
           </Col>
         </Row>
+        <br></br>
+        <Row>
+          <Col size={50}>
+            <div>
+                <h4>March 17<sup>th</sup>, 2023</h4>
+                <h6> Symposium is APPROACHING! Lots of work was done on the electrical design and components.
+                     First, the wiring was cleaned-up and reorganized to make it clearer both to us and the viewer, the last wires were soldered, 
+                     electrical connections were thoroughly tested for proper connection and power requirements. Further testing was completed on the software to 
+                     adjust thresholds for the sensors and motors.
+                  </h6>
+            </div>
+          </Col>
+        </Row>
+        <br></br>
+        <Row>
+          <Col size={50}>
+            <div>
+                <h4>March 24<sup>th</sup>, 2023</h4>
+                <h6> Symposium has ARRIVED! In the week leading up to symposium, the main bulk of the work was on finishing touches including motor speed tuning, 
+                  adding safety acrylic panels to ensure a safe demo environment during symposium, and painting the device. 
+                  The whole assembly was once again tested to ensure effective cleaning and smooth operation. Unsurprisingly, the device visibly cleaned a majority of the
+                  dirt on the panel, and left little to not particles behind. Onto symposium!
+                </h6>
+                <br></br>
+                <img src={final} className="blogImg center"></img>
+            </div>
+          </Col>
+        </Row>
       </Container>
     </section>
+    
   )
 }
